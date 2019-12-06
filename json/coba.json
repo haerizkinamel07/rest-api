@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Amelia Haerizkina",
+        "umur": 21,
+        "nrp": "173040083",
+        "lulus": false,
+        "hobby": [
+            "Desain",
+            "Menggambar"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Mellia Liyanthy",
+            "pembimbing2": "Erik"
+        }
+    },
+    {
+        "nama": "sandhika",
+        "umur": 20,
+        "nrp": "1234567",
+        "lulus": false,
+        "hobby": [
+            "coding",
+            "golf"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Doddy Ferdiansyah",
+            "pembimbing2": "Erik"
+        }
+    }
+]
